@@ -1,2 +1,2 @@
 My first readme
-##commitig needs commitment
+## commitig needs commitment
